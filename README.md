@@ -6,15 +6,9 @@
 
 \*\*Carrera:\*\* Ingeniería en Telecomunicaciones
 
-\*\*Asignatura:\*\* \[Nombre de tu Asignatura]
+\*\*Asignatura:\*\* \Redes Opticas
 
 \*\*Integrantes:\*\* Diego Heriberto Calderon, Ricardo Duarte
-
-
-
-\## Resumen
-
-Este repositorio sirve como manual de referencia y guía de preparación documental para el uso seguro, eficiente y profesional de la maqueta de laboratorio DWDM en sesiones presenciales.
 
 
 
